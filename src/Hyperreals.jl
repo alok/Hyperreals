@@ -5,13 +5,6 @@ Hyperreal = Dict{Float64, Float64}
 
 # TODO impl a way to simplify *relative* to an epsilon
 # TODO : add a function to convert a real number to a hyperreal
-# TODO : implement field
-# TODO : implement +
-# TODO : implement -
-# TODO : implement *
-# TODO : implement /
-# TODO : implement 0
-# TODO : implement 1
 # TODO : write tests
 #
 function zero(::Hyperreal)
